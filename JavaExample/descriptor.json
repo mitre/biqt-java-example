@@ -1,0 +1,9 @@
+{
+  "name" : "JavaExample",
+  "description": "Example Java-based provider for BIQT.",
+  "version" : "0.0.1",
+  "sourceLanguage" : "java",
+  "className": "org/mitre/biqt/ProviderExample",
+  "modality": "example",
+  "attributes": [ ]
+}
